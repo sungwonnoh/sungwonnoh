@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sungwonnoh
-- 👀 I’m interested in FE
+- 👀 I’m interested in learning something new.
 - 🌱 I’m currently learning React and algorithm.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nohsungwon730@gmail.com
