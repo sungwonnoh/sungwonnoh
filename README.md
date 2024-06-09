@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=${venom}&color=auto&height=${150}&section=header&text=${노성원의 깃허브}&fontSize=${50}&animation=${twinkling">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=150&section=header&text=노성원의 깃허브&fontSize=50&animation=twinkling" />
 
 
 ## 
