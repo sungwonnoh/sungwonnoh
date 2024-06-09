@@ -1,6 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?
-type=venom&color=auto&height=200&section=header&text=sungwonnoh's%20github%20&fontSize=90&animation=twinkling" />
-
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=sungwonnoh's%20github%20&fontSize=50" />
 
 ## 
 - 👋 Hi, I’m @sungwonnoh
