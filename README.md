@@ -3,8 +3,8 @@
 ## 
 - 👋 Hi, I’m @sungwonnoh
 - 👀 I’m interested in learning something new.
-- 🌱 I’m currently learning React and algorithm.
-- 💞️ I’m looking to collaborate on mobile app with webview.
+- 🌱 I’m currently learning React and LLM.
+- 💞️ I’m looking to collaborate on AI with service.
 - 📫 How to reach me nohsungwon730@gmail.com
 
 <!---
